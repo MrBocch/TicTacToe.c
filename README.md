@@ -8,4 +8,5 @@ Very basic tictactoe but you can only play againts someone else localy
 
 ## Things to add
 
+- Option to let player see tutorial grid again
 - Option to go againts a AI
